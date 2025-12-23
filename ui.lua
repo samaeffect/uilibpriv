@@ -106,7 +106,7 @@ function Luxt1.CreateWindow(libName, logoID)
 
     --
     libName = libName or "LuxtLib"
-    logoId = logoId or "92417829953812"
+    logoId = logoId or "101824176106940"
 
     --
 
