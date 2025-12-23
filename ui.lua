@@ -1,6 +1,6 @@
 local Luxt1 = {}
 
-function Luxt1.CreateWindow(libName, 97891580)
+function Luxt1.CreateWindow(libName, logoID)
     local LuxtLib = Instance.new("ScreenGui")
     local shadow = Instance.new("ImageLabel")
     local MainFrame = Instance.new("Frame")
@@ -106,7 +106,7 @@ function Luxt1.CreateWindow(libName, 97891580)
 
     --
     libName = libName or "LuxtLib"
-    logoId = logoId or "97891580"
+    logoId = logoId or "92417829953812"
 
     --
 
